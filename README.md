@@ -12,4 +12,4 @@ This is our team's source code of my Graduated thesis. My topic is refer to "Sty
     
     react-native start
     
-    Lúc này xem emulator đã có app tên là "Met" hay chưa, nếu có thì app đã cài đặt thành công. Chỉnh sửa và bấm reload trên emulator hoặc bấm "r" ở terminal (tr
+    Lúc này xem emulator đã có app tên là "Met" hay chưa, nếu có thì app đã cài đặt thành công. Chỉnh sửa và bấm reload trên emulator hoặc bấm "r" ở terminal.
